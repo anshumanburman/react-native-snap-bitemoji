@@ -1,0 +1,12 @@
+{
+  "name": "react-native-snap-bitmoji",
+  "version": "1.0.1",
+  "description": "snapchat bitemoji in react native",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "npm:publish":"npm publish --access public"
+  },
+  "author": "ansh",
+  "license": "ISC"
+}
